@@ -175,7 +175,7 @@
 		"file-loader": "^6.1.1",
 		"find-remove": "^3.1.0",
 		"fs-extra": "^10.0.0",
-		"glob": "^7.1.6",
+		"glob": "^7.1.7",
 		"husky": "^4.3.0",
 		"jest": "^24.9.0",
 		"jest-svg-transformer": "^1.0.0",
